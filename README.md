@@ -2,7 +2,8 @@
 
 A minimalist, single-page CV built entirely with HTML. This project demonstrates how to structure a clean and semantic resume without relying on external CSS or JavaScript.​
 
-Features
+<h3>Features</h3>
+
 Semantic HTML: Utilizes appropriate HTML tags to ensure clarity and accessibility.
 
 Single-Page Layout: All essential CV information presented on one page for easy viewing.
