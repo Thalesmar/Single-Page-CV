@@ -1,4 +1,5 @@
-Single-Page-CV
+<h1>Single-Page-CV</h1>
+
 A minimalist, single-page CV built entirely with HTML. This project demonstrates how to structure a clean and semantic resume without relying on external CSS or JavaScript.​
 
 Features
